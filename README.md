@@ -1,2 +1,2 @@
 # Coursera_Capstone
-1st Assignment
+This Project is used for 1st Assignment of Applied Data Science Capstone.
